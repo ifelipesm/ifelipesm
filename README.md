@@ -11,7 +11,7 @@ I am doing a React Native specialization at Rocketseat and searching for oportun
 
 ### What I'm working on 👨‍💻
 
-🌱 &nbsp; I’m currently learning React Native. <br>
+🌱 &nbsp; I’m currently learning React Native at Rocketseat and Cybersecurity at FIAP. <br>
 
 
 ### What I have interest on
